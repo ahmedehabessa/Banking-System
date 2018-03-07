@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\lenovo\desktop\data structure\ds project\source.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\data structure\ds project\source.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\data structure\ds project\source.cpp(169): warning C4018: '<': signed/unsigned mismatch
+  Ds project.vcxproj -> C:\Users\LENOVO\Desktop\data structure\Debug\Ds project.exe
+  Ds project.vcxproj -> C:\Users\LENOVO\Desktop\data structure\Debug\Ds project.pdb (Full PDB)
